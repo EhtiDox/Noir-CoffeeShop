@@ -1,0 +1,6 @@
+{
+  "name": "NOIR — Mayfair Luxury Coffee Sanctuary",
+  "description": "In the heart of Mayfair, NOIR is an intimate sanctuary dedicated to single-origin roasts, slow artisanal extraction, and Parisian patisserie excellence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
